@@ -1,0 +1,7569 @@
+{
+  "code": 200,
+  "msg": "success",
+  "count": 4793595,
+  "next": "http://13.230.81.113:8888/api/v1/sensorvalues/?limit=1260&offset=132300",
+  "previous": "http://13.230.81.113:8888/api/v1/sensorvalues/?limit=1260&offset=129780",
+  "data": [
+    {
+      "value": 32.5,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:30:08.187656"
+    },
+    {
+      "value": 40.63,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:30:08.499665"
+    },
+    {
+      "value": 42553.258,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:30:08.515425"
+    },
+    {
+      "value": 384.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:30:08.838952"
+    },
+    {
+      "value": 0.642,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:30:08.841997"
+    },
+    {
+      "value": 58432.94,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:30:09.171837"
+    },
+    {
+      "value": 22.288,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:30:09.232246"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:30:09.511211"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:30:09.551248"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:30:09.831185"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:30:09.870641"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:30:10.155864"
+    },
+    {
+      "value": 28.9,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:31:07.384793"
+    },
+    {
+      "value": 39.61,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:31:07.734314"
+    },
+    {
+      "value": 407.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:31:08.070251"
+    },
+    {
+      "value": 41932.608,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:31:08.390340"
+    },
+    {
+      "value": 31.25,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:31:08.538098"
+    },
+    {
+      "value": 0.608,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:31:08.730724"
+    },
+    {
+      "value": 40.56,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:31:08.878157"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:31:09.111832"
+    },
+    {
+      "value": 385.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:31:09.211598"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:31:09.430958"
+    },
+    {
+      "value": 59054.74,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:31:09.530198"
+    },
+    {
+      "value": 41.138,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:31:09.750241"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:31:09.851337"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:31:10.150992"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:31:10.491125"
+    },
+    {
+      "value": 28.99,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:32:07.177103"
+    },
+    {
+      "value": 45.7,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:32:07.554372"
+    },
+    {
+      "value": 406.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:32:07.924909"
+    },
+    {
+      "value": 38524.666,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:32:08.249468"
+    },
+    {
+      "value": 0.625,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:32:08.569967"
+    },
+    {
+      "value": 31.63,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:32:08.889322"
+    },
+    {
+      "value": 22.043,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:32:08.969497"
+    },
+    {
+      "value": 40.9,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:32:09.229706"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:32:09.268883"
+    },
+    {
+      "value": 380.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:32:09.569305"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:32:09.579502"
+    },
+    {
+      "value": 58775.66,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:32:09.910116"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:32:10.209706"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:32:10.529259"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:32:10.909374"
+    },
+    {
+      "value": 29.13,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:33:08.023713"
+    },
+    {
+      "value": 32.36,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:33:08.293685"
+    },
+    {
+      "value": 47.72,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:33:08.377806"
+    },
+    {
+      "value": 38.68,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:33:08.628965"
+    },
+    {
+      "value": 422.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:33:08.709465"
+    },
+    {
+      "value": 381.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:33:08.957330"
+    },
+    {
+      "value": 34511.251,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:33:09.029129"
+    },
+    {
+      "value": 59663.31,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:33:09.269477"
+    },
+    {
+      "value": 0.651,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:33:09.369090"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:33:09.608272"
+    },
+    {
+      "value": 22.227,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:33:09.769200"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:33:09.929082"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:33:10.089290"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:33:10.249602"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:33:10.411145"
+    },
+    {
+      "value": 29.29,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:34:07.920144"
+    },
+    {
+      "value": 48.24,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:34:08.275608"
+    },
+    {
+      "value": 32.78,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:34:08.621618"
+    },
+    {
+      "value": 426.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:34:08.624693"
+    },
+    {
+      "value": 39.96,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:34:08.953471"
+    },
+    {
+      "value": 23837.808,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:34:08.956490"
+    },
+    {
+      "value": 389.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:34:09.292817"
+    },
+    {
+      "value": 0.592,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:34:09.298498"
+    },
+    {
+      "value": 52317.51,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:34:09.631293"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:34:09.691307"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:34:09.951625"
+    },
+    {
+      "value": 0.06,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:34:09.991303"
+    },
+    {
+      "value": 41.016,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:34:10.288454"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:34:10.293460"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:34:10.611070"
+    },
+    {
+      "value": 29.34,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:35:07.697560"
+    },
+    {
+      "value": 52.33,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:35:08.053349"
+    },
+    {
+      "value": 414.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:35:08.398297"
+    },
+    {
+      "value": 19386.038,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:35:08.737963"
+    },
+    {
+      "value": 0.464,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:35:09.069543"
+    },
+    {
+      "value": 22.043,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:35:09.451466"
+    },
+    {
+      "value": 32.59,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:35:09.557201"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:35:09.789154"
+    },
+    {
+      "value": 40.09,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:35:09.896924"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:35:10.125547"
+    },
+    {
+      "value": 378.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:35:10.249139"
+    },
+    {
+      "value": 52107.48,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:35:10.574609"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:35:10.929391"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:35:11.257584"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:35:11.589095"
+    },
+    {
+      "value": 29.27,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:36:07.554456"
+    },
+    {
+      "value": 43.43,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:36:07.934195"
+    },
+    {
+      "value": 421.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:36:08.278582"
+    },
+    {
+      "value": 18909.168,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:36:08.590446"
+    },
+    {
+      "value": 0.309,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:36:08.890647"
+    },
+    {
+      "value": 22.043,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:36:09.258405"
+    },
+    {
+      "value": 31.05,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:36:09.430213"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:36:09.578887"
+    },
+    {
+      "value": 39.61,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:36:09.759134"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:36:09.890412"
+    },
+    {
+      "value": 368.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:36:10.098536"
+    },
+    {
+      "value": 39793.06,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:36:10.430645"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:36:10.731117"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:36:11.051625"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:36:11.390274"
+    },
+    {
+      "value": 29.23,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:37:07.433816"
+    },
+    {
+      "value": 47.84,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:37:07.834245"
+    },
+    {
+      "value": 413.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:37:08.169158"
+    },
+    {
+      "value": 19827.494,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:37:08.509223"
+    },
+    {
+      "value": 0.255,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:37:08.828679"
+    },
+    {
+      "value": 22.043,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:37:09.189384"
+    },
+    {
+      "value": 31.41,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:37:09.289858"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:37:09.509111"
+    },
+    {
+      "value": 41.18,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:37:09.610147"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:37:09.829295"
+    },
+    {
+      "value": 377.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:37:09.930899"
+    },
+    {
+      "value": 26738.85,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:37:10.269294"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:37:10.611187"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:37:10.972302"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:37:11.290528"
+    },
+    {
+      "value": 29.23,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:38:07.312580"
+    },
+    {
+      "value": 47.93,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:38:07.665983"
+    },
+    {
+      "value": 412.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:38:08.002918"
+    },
+    {
+      "value": 21300.864,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:38:08.329153"
+    },
+    {
+      "value": 0.25,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:38:08.649288"
+    },
+    {
+      "value": 21.982,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:38:09.016476"
+    },
+    {
+      "value": 31.84,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:38:09.189872"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:38:09.349134"
+    },
+    {
+      "value": 40.58,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:38:09.489192"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:38:09.690421"
+    },
+    {
+      "value": 373.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:38:09.809636"
+    },
+    {
+      "value": 23917.45,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:38:10.129823"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:38:10.450073"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:38:10.769787"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:38:11.069357"
+    },
+    {
+      "value": 29.17,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:39:08.170028"
+    },
+    {
+      "value": 42.0,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:39:08.534157"
+    },
+    {
+      "value": 406.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:39:08.886729"
+    },
+    {
+      "value": 31.63,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:39:09.050558"
+    },
+    {
+      "value": 19623.984,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:39:09.210597"
+    },
+    {
+      "value": 41.39,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:39:09.390690"
+    },
+    {
+      "value": 0.248,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:39:09.549849"
+    },
+    {
+      "value": 375.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:39:09.710712"
+    },
+    {
+      "value": 21.982,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:39:09.910407"
+    },
+    {
+      "value": 20988.01,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:39:10.050940"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:39:10.218154"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:39:10.370307"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:39:10.530515"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:39:10.690740"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:39:10.991419"
+    },
+    {
+      "value": 29.1,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:40:08.010034"
+    },
+    {
+      "value": 51.45,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:40:08.375892"
+    },
+    {
+      "value": 423.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:40:08.718587"
+    },
+    {
+      "value": 31.6,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:40:08.930566"
+    },
+    {
+      "value": 22109.52,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:40:09.039069"
+    },
+    {
+      "value": 41.14,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:40:09.271250"
+    },
+    {
+      "value": 0.299,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:40:09.369976"
+    },
+    {
+      "value": 363.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:40:09.570755"
+    },
+    {
+      "value": 22.227,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:40:09.750152"
+    },
+    {
+      "value": 21871.08,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:40:09.911769"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:40:10.070513"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:40:10.210445"
+    },
+    {
+      "value": 40.039,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:40:10.410445"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:40:10.550259"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:40:10.890142"
+    },
+    {
+      "value": 28.99,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:41:07.978193"
+    },
+    {
+      "value": 42.4,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:41:08.335598"
+    },
+    {
+      "value": 418.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:41:08.670767"
+    },
+    {
+      "value": 30.43,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:41:08.811733"
+    },
+    {
+      "value": 32630.208,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:41:08.970237"
+    },
+    {
+      "value": 41.66,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:41:09.130930"
+    },
+    {
+      "value": 0.507,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:41:09.290124"
+    },
+    {
+      "value": 374.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:41:09.470305"
+    },
+    {
+      "value": 22.288,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:41:09.691352"
+    },
+    {
+      "value": 22035.43,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:41:09.790799"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:41:09.998443"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:41:10.090254"
+    },
+    {
+      "value": 39.917,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:41:10.310451"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:41:10.411755"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:41:10.758886"
+    },
+    {
+      "value": 29.03,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:42:07.916616"
+    },
+    {
+      "value": 41.53,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:42:08.293494"
+    },
+    {
+      "value": 412.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:42:08.637607"
+    },
+    {
+      "value": 31.43,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:42:08.698309"
+    },
+    {
+      "value": 27841.104,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:42:08.969756"
+    },
+    {
+      "value": 41.31,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:42:09.028742"
+    },
+    {
+      "value": 0.447,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:42:09.270197"
+    },
+    {
+      "value": 371.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:42:09.369346"
+    },
+    {
+      "value": 22.166,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:42:09.649542"
+    },
+    {
+      "value": 21225.47,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:42:09.688695"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:42:09.989809"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:42:09.997678"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:42:10.309928"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:42:10.315262"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:42:10.649708"
+    },
+    {
+      "value": 29.12,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:43:07.825463"
+    },
+    {
+      "value": 48.75,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:43:08.157646"
+    },
+    {
+      "value": 415.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:43:08.489875"
+    },
+    {
+      "value": 23843.03,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:43:08.808436"
+    },
+    {
+      "value": 31.57,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:43:08.989611"
+    },
+    {
+      "value": 0.339,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:43:09.129836"
+    },
+    {
+      "value": 40.47,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:43:09.309386"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:43:09.509550"
+    },
+    {
+      "value": 359.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:43:09.630602"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:43:09.817176"
+    },
+    {
+      "value": 20061.69,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:43:09.928566"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:43:10.149223"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:43:10.249311"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:43:10.549584"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:43:10.869689"
+    },
+    {
+      "value": 29.12,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:44:07.525279"
+    },
+    {
+      "value": 51.87,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:44:07.921329"
+    },
+    {
+      "value": 420.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:44:08.265772"
+    },
+    {
+      "value": 31.95,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:44:08.428803"
+    },
+    {
+      "value": 24275.674,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:44:08.588236"
+    },
+    {
+      "value": 40.7,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:44:08.748769"
+    },
+    {
+      "value": 0.306,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:44:08.916997"
+    },
+    {
+      "value": 376.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:44:09.049185"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:44:09.319206"
+    },
+    {
+      "value": 20436.23,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:44:09.396877"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:44:09.629390"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:44:09.728401"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:44:09.956400"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:44:10.049177"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:44:10.388665"
+    },
+    {
+      "value": 29.16,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:45:07.400143"
+    },
+    {
+      "value": 49.91,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:45:07.732435"
+    },
+    {
+      "value": 423.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:45:08.068780"
+    },
+    {
+      "value": 26856.192,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:45:08.392519"
+    },
+    {
+      "value": 0.33,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:45:08.712753"
+    },
+    {
+      "value": 31.74,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:45:08.752064"
+    },
+    {
+      "value": 22.166,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:45:09.094926"
+    },
+    {
+      "value": 40.77,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:45:09.097698"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:45:09.434750"
+    },
+    {
+      "value": 369.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:45:09.437569"
+    },
+    {
+      "value": 21317.84,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:45:09.754841"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:45:09.757653"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:45:10.072354"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:45:10.413730"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:45:10.732368"
+    },
+    {
+      "value": 29.07,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:46:07.285660"
+    },
+    {
+      "value": 53.25,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:46:07.625640"
+    },
+    {
+      "value": 418.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:46:07.957620"
+    },
+    {
+      "value": 31.54,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:46:08.177389"
+    },
+    {
+      "value": 26387.155,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:46:08.297267"
+    },
+    {
+      "value": 41.78,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:46:08.509556"
+    },
+    {
+      "value": 0.339,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:46:08.617701"
+    },
+    {
+      "value": 361.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:46:08.829801"
+    },
+    {
+      "value": 22.104,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:46:09.009167"
+    },
+    {
+      "value": 21570.8,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:46:09.150411"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:46:09.329849"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:46:09.469864"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:46:09.629445"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:46:09.809536"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:46:10.130262"
+    },
+    {
+      "value": 29.03,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:47:08.111172"
+    },
+    {
+      "value": 55.32,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:47:08.569905"
+    },
+    {
+      "value": 31.8,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:47:08.575470"
+    },
+    {
+      "value": 428.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:47:08.937267"
+    },
+    {
+      "value": 40.62,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:47:08.940183"
+    },
+    {
+      "value": 24635.856,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:47:09.272745"
+    },
+    {
+      "value": 375.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:47:09.275646"
+    },
+    {
+      "value": 0.322,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:47:09.629104"
+    },
+    {
+      "value": 21445.46,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:47:09.632531"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:47:09.971064"
+    },
+    {
+      "value": 22.532,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:47:09.978826"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:47:10.313206"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:47:10.316147"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:47:10.642044"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:47:10.644964"
+    },
+    {
+      "value": 29.03,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:48:08.314364"
+    },
+    {
+      "value": 47.58,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:48:08.789502"
+    },
+    {
+      "value": 411.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:48:09.125410"
+    },
+    {
+      "value": 19287.792,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:48:09.465635"
+    },
+    {
+      "value": 0.259,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:48:09.809322"
+    },
+    {
+      "value": 31.53,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:48:09.909750"
+    },
+    {
+      "value": 22.532,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:48:10.189963"
+    },
+    {
+      "value": 40.11,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:48:10.248313"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:48:10.509535"
+    },
+    {
+      "value": 366.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:48:10.588991"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:48:10.849874"
+    },
+    {
+      "value": 20175.11,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:48:10.929712"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:48:11.270574"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:48:11.610175"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:48:11.936426"
+    },
+    {
+      "value": 29.09,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:49:07.490283"
+    },
+    {
+      "value": 41.29,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:49:07.874472"
+    },
+    {
+      "value": 399.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:49:08.211055"
+    },
+    {
+      "value": 31.33,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:49:08.290787"
+    },
+    {
+      "value": 18468.365,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:49:08.519221"
+    },
+    {
+      "value": 40.94,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:49:08.610756"
+    },
+    {
+      "value": 0.247,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:49:08.829779"
+    },
+    {
+      "value": 364.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:49:08.930446"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:49:09.190791"
+    },
+    {
+      "value": 19993.47,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:49:09.230342"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:49:09.498889"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:49:09.550859"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:49:09.831103"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:49:09.898822"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:49:10.232144"
+    },
+    {
+      "value": 29.0,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:50:07.386573"
+    },
+    {
+      "value": 51.55,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:50:07.718227"
+    },
+    {
+      "value": 413.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:50:08.059317"
+    },
+    {
+      "value": 17008.867,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:50:08.397605"
+    },
+    {
+      "value": 31.01,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:50:08.590643"
+    },
+    {
+      "value": 0.226,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:50:08.731055"
+    },
+    {
+      "value": 41.52,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:50:08.911514"
+    },
+    {
+      "value": 22.104,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:50:09.090854"
+    },
+    {
+      "value": 364.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:50:09.230517"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:50:09.410630"
+    },
+    {
+      "value": 19066.66,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:50:09.550840"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:50:09.750395"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:50:09.850461"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:50:10.150630"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:50:10.522631"
+    },
+    {
+      "value": 28.89,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:51:07.213826"
+    },
+    {
+      "value": 52.05,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:51:07.603239"
+    },
+    {
+      "value": 405.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:51:07.945639"
+    },
+    {
+      "value": 16843.872,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:51:08.269950"
+    },
+    {
+      "value": 0.227,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:51:08.605755"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:51:08.989276"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:51:09.289780"
+    },
+    {
+      "value": 30.81,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:51:09.550197"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:51:09.610056"
+    },
+    {
+      "value": 42.3,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:51:09.897944"
+    },
+    {
+      "value": 365.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:51:10.237939"
+    },
+    {
+      "value": 18967.43,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:51:10.549689"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:51:10.898255"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:51:11.239635"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:51:11.569464"
+    },
+    {
+      "value": 28.74,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:52:08.038710"
+    },
+    {
+      "value": 48.83,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:52:08.414564"
+    },
+    {
+      "value": 393.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:52:08.758765"
+    },
+    {
+      "value": 17009.357,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:52:09.090448"
+    },
+    {
+      "value": 0.225,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:52:09.389565"
+    },
+    {
+      "value": 30.47,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:52:09.430461"
+    },
+    {
+      "value": 42.17,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:52:09.733439"
+    },
+    {
+      "value": 22.532,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:52:09.735432"
+    },
+    {
+      "value": 363.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:52:10.030863"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:52:10.039441"
+    },
+    {
+      "value": 19176.82,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:52:10.340593"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:52:10.343510"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:52:10.651369"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:52:10.951020"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:52:11.270798"
+    },
+    {
+      "value": 28.72,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:53:07.921482"
+    },
+    {
+      "value": 43.79,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:53:08.267202"
+    },
+    {
+      "value": 398.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:53:08.606205"
+    },
+    {
+      "value": 16955.011,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:53:08.909738"
+    },
+    {
+      "value": 0.223,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:53:09.209471"
+    },
+    {
+      "value": 30.29,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:53:09.309996"
+    },
+    {
+      "value": 22.288,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:53:09.578400"
+    },
+    {
+      "value": 42.65,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:53:09.629106"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:53:09.897472"
+    },
+    {
+      "value": 372.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:53:09.928630"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:53:10.209789"
+    },
+    {
+      "value": 19208.15,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:53:10.217873"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:53:10.549799"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:53:10.857894"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:53:11.191228"
+    },
+    {
+      "value": 28.69,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:54:07.712765"
+    },
+    {
+      "value": 46.05,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:54:08.120270"
+    },
+    {
+      "value": 404.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:54:08.504344"
+    },
+    {
+      "value": 16763.414,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:54:08.839505"
+    },
+    {
+      "value": 30.44,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:54:09.333660"
+    },
+    {
+      "value": 0.217,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:54:09.336716"
+    },
+    {
+      "value": 43.68,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:54:09.632344"
+    },
+    {
+      "value": 22.288,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:54:09.711394"
+    },
+    {
+      "value": 371.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:54:09.952814"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:54:10.012867"
+    },
+    {
+      "value": 18976.08,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:54:10.279980"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:54:10.310854"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:54:10.611683"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:54:10.939848"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:54:11.251649"
+    },
+    {
+      "value": 28.58,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:55:07.761064"
+    },
+    {
+      "value": 48.42,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:55:08.097754"
+    },
+    {
+      "value": 411.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:55:08.429404"
+    },
+    {
+      "value": 15903.84,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:55:08.730343"
+    },
+    {
+      "value": 30.26,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:55:09.052157"
+    },
+    {
+      "value": 0.204,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:55:09.055112"
+    },
+    {
+      "value": 43.35,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:55:09.350081"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:55:09.430727"
+    },
+    {
+      "value": 376.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:55:09.677906"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:55:09.728872"
+    },
+    {
+      "value": 17885.74,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:55:09.988522"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:55:10.029892"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:55:10.289836"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:55:10.611297"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:55:10.909553"
+    },
+    {
+      "value": 28.35,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:56:07.449736"
+    },
+    {
+      "value": 40.67,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:56:07.805930"
+    },
+    {
+      "value": 394.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:56:08.145804"
+    },
+    {
+      "value": 15356.957,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:56:08.489574"
+    },
+    {
+      "value": 0.197,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:56:08.829500"
+    },
+    {
+      "value": 29.2,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:56:08.938311"
+    },
+    {
+      "value": 22.227,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:56:09.189753"
+    },
+    {
+      "value": 43.55,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:56:09.269535"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:56:09.510045"
+    },
+    {
+      "value": 364.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:56:09.578968"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:56:09.809544"
+    },
+    {
+      "value": 17197.04,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:56:09.897228"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:56:10.229846"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:56:10.529534"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:56:10.829949"
+    },
+    {
+      "value": 28.16,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:57:07.293419"
+    },
+    {
+      "value": 42.76,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:57:07.651309"
+    },
+    {
+      "value": 393.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:57:07.986117"
+    },
+    {
+      "value": 15370.176,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:57:08.310034"
+    },
+    {
+      "value": 0.199,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:57:08.630646"
+    },
+    {
+      "value": 28.81,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:57:08.809618"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:57:08.997306"
+    },
+    {
+      "value": 43.29,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:57:09.109663"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:57:09.309470"
+    },
+    {
+      "value": -1.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:57:09.409308"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:57:09.794216"
+    },
+    {
+      "value": 17131.1,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:57:09.796506"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:57:10.138826"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:57:10.449555"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:57:10.798958"
+    },
+    {
+      "value": 28.01,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:58:07.322490"
+    },
+    {
+      "value": 48.66,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:58:07.706266"
+    },
+    {
+      "value": 401.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:58:08.058736"
+    },
+    {
+      "value": 15534.518,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:58:08.398627"
+    },
+    {
+      "value": 28.91,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:58:08.678641"
+    },
+    {
+      "value": 0.199,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:58:08.730288"
+    },
+    {
+      "value": 44.79,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:58:09.009852"
+    },
+    {
+      "value": 22.166,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:58:09.110423"
+    },
+    {
+      "value": 361.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:58:09.311176"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:58:09.410212"
+    },
+    {
+      "value": 17443.63,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:58:09.630731"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:58:09.710059"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:58:09.950445"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:58:10.250610"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:58:10.572385"
+    },
+    {
+      "value": 27.9,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:59:08.127291"
+    },
+    {
+      "value": 42.83,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:59:08.493909"
+    },
+    {
+      "value": 394.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:59:08.845381"
+    },
+    {
+      "value": 29.09,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:59:08.945129"
+    },
+    {
+      "value": 15784.541,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:59:09.190381"
+    },
+    {
+      "value": 44.19,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:59:09.269356"
+    },
+    {
+      "value": 0.206,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T12:59:09.497800"
+    },
+    {
+      "value": 363.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T12:59:09.589601"
+    },
+    {
+      "value": 17711.12,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T12:59:09.878164"
+    },
+    {
+      "value": 22.41,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:59:09.882320"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T12:59:10.189792"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:59:10.193936"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:59:10.511656"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T12:59:10.514433"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T12:59:10.826415"
+    },
+    {
+      "value": 27.82,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:00:08.004823"
+    },
+    {
+      "value": 42.35,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:00:08.374524"
+    },
+    {
+      "value": 28.81,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:00:08.446037"
+    },
+    {
+      "value": 405.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:00:08.710251"
+    },
+    {
+      "value": 42.57,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:00:08.778419"
+    },
+    {
+      "value": 16047.456,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:00:09.028433"
+    },
+    {
+      "value": 362.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:00:09.098028"
+    },
+    {
+      "value": 0.211,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:00:09.338122"
+    },
+    {
+      "value": 18132.01,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:00:09.410501"
+    },
+    {
+      "value": 24.95,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:00:09.712128"
+    },
+    {
+      "value": 22.593,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:00:09.714940"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:00:10.033143"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:00:10.036025"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:00:10.367956"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:00:10.369960"
+    },
+    {
+      "value": 27.75,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:01:07.872368"
+    },
+    {
+      "value": 42.72,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:01:08.215978"
+    },
+    {
+      "value": 402.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:01:08.535279"
+    },
+    {
+      "value": 28.88,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:01:08.728295"
+    },
+    {
+      "value": 16704.989,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:01:08.867856"
+    },
+    {
+      "value": 43.78,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:01:09.027711"
+    },
+    {
+      "value": 0.219,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:01:09.188415"
+    },
+    {
+      "value": 360.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:01:09.347980"
+    },
+    {
+      "value": 22.288,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:01:09.549175"
+    },
+    {
+      "value": 18980.65,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:01:09.668175"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:01:09.888274"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:01:09.987951"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:01:10.208374"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:01:10.307687"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:01:10.640427"
+    },
+    {
+      "value": 27.79,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:02:07.711976"
+    },
+    {
+      "value": 47.56,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:02:08.056270"
+    },
+    {
+      "value": 413.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:02:08.387782"
+    },
+    {
+      "value": 17159.664,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:02:08.688107"
+    },
+    {
+      "value": 29.03,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:02:08.988381"
+    },
+    {
+      "value": 0.225,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:02:08.996865"
+    },
+    {
+      "value": 44.37,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:02:09.288728"
+    },
+    {
+      "value": 22.227,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:02:09.367610"
+    },
+    {
+      "value": 366.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:02:09.607929"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:02:09.668344"
+    },
+    {
+      "value": 19564.42,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:02:09.928177"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:02:09.989064"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:02:10.248435"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:02:10.587587"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:02:10.908745"
+    },
+    {
+      "value": 27.83,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:03:07.447534"
+    },
+    {
+      "value": 44.25,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:03:07.800266"
+    },
+    {
+      "value": 408.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:03:08.136044"
+    },
+    {
+      "value": 29.09,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:03:08.275920"
+    },
+    {
+      "value": 17133.062,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:03:08.448140"
+    },
+    {
+      "value": 43.25,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:03:08.616443"
+    },
+    {
+      "value": 0.226,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:03:08.748090"
+    },
+    {
+      "value": 367.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:03:08.948110"
+    },
+    {
+      "value": 22.837,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:03:09.128144"
+    },
+    {
+      "value": 19422.27,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:03:09.248107"
+    },
+    {
+      "value": 0.06,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:03:09.448715"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:03:09.567614"
+    },
+    {
+      "value": 41.138,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:03:09.787733"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:03:09.875820"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:03:10.187778"
+    },
+    {
+      "value": 27.82,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:04:07.185996"
+    },
+    {
+      "value": 52.7,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:04:07.554005"
+    },
+    {
+      "value": 422.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:04:07.897841"
+    },
+    {
+      "value": 16305.965,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:04:08.210253"
+    },
+    {
+      "value": 29.23,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:04:08.531712"
+    },
+    {
+      "value": 0.214,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:04:08.534505"
+    },
+    {
+      "value": 43.78,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:04:08.870005"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:04:08.929654"
+    },
+    {
+      "value": 361.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:04:09.170157"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:04:09.230642"
+    },
+    {
+      "value": 18528.1,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:04:09.478372"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:04:09.538252"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:04:09.800190"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:04:10.109882"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:04:10.437127"
+    },
+    {
+      "value": 27.79,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:05:08.033091"
+    },
+    {
+      "value": 42.66,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:05:08.401338"
+    },
+    {
+      "value": 394.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:05:08.737090"
+    },
+    {
+      "value": 16033.258,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:05:09.076742"
+    },
+    {
+      "value": 0.209,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:05:09.417054"
+    },
+    {
+      "value": 22.532,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:05:09.807925"
+    },
+    {
+      "value": 29.12,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:05:09.813244"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:05:10.131007"
+    },
+    {
+      "value": 44.82,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:05:10.132942"
+    },
+    {
+      "value": 360.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:05:10.448632"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:05:10.456621"
+    },
+    {
+      "value": 18225.85,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:05:10.749510"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:05:11.049451"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:05:11.372430"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:05:11.709060"
+    },
+    {
+      "value": 27.72,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:06:07.891360"
+    },
+    {
+      "value": 29.06,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:06:08.123282"
+    },
+    {
+      "value": 44.76,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:06:08.254522"
+    },
+    {
+      "value": 44.76,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:06:08.466444"
+    },
+    {
+      "value": 408.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:06:08.598726"
+    },
+    {
+      "value": 364.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:06:08.790896"
+    },
+    {
+      "value": 16002.086,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:06:08.930635"
+    },
+    {
+      "value": 18084.84,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:06:09.111388"
+    },
+    {
+      "value": 0.21,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:06:09.250316"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:06:09.410468"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:06:09.631004"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:06:09.709856"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:06:09.971284"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:06:10.030640"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:06:10.271531"
+    },
+    {
+      "value": 27.69,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:07:07.676905"
+    },
+    {
+      "value": 44.18,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:07:08.017539"
+    },
+    {
+      "value": 398.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:07:08.356417"
+    },
+    {
+      "value": 29.19,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:07:08.388394"
+    },
+    {
+      "value": 15866.304,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:07:08.698817"
+    },
+    {
+      "value": 44.58,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:07:08.701734"
+    },
+    {
+      "value": 361.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:07:09.011622"
+    },
+    {
+      "value": 0.209,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:07:09.014791"
+    },
+    {
+      "value": 17894.23,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:07:09.349182"
+    },
+    {
+      "value": 22.41,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:07:09.408527"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:07:09.688549"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:07:09.696574"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:07:10.010990"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:07:10.014214"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:07:10.349005"
+    },
+    {
+      "value": 27.56,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:08:07.451981"
+    },
+    {
+      "value": 51.17,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:08:07.832415"
+    },
+    {
+      "value": 401.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:08:08.200197"
+    },
+    {
+      "value": 15883.277,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:08:08.528019"
+    },
+    {
+      "value": 0.208,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:08:08.827733"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:08:09.208026"
+    },
+    {
+      "value": 28.13,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:08:09.408925"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:08:09.507525"
+    },
+    {
+      "value": 44.51,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:08:09.728278"
+    },
+    {
+      "value": 41.016,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:08:09.827420"
+    },
+    {
+      "value": 349.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:08:10.048534"
+    },
+    {
+      "value": 18001.12,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:08:10.387993"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:08:10.723696"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:08:11.055711"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:08:11.389393"
+    },
+    {
+      "value": 27.51,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:09:07.219180"
+    },
+    {
+      "value": 42.14,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:09:07.574729"
+    },
+    {
+      "value": 401.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:09:07.927542"
+    },
+    {
+      "value": 15770.832,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:09:08.251267"
+    },
+    {
+      "value": 0.209,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:09:08.590018"
+    },
+    {
+      "value": 22.349,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:09:08.970334"
+    },
+    {
+      "value": 0.06,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:09:09.270912"
+    },
+    {
+      "value": 28.38,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:09:09.278896"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:09:09.569586"
+    },
+    {
+      "value": 45.25,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:09:09.610070"
+    },
+    {
+      "value": 359.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:09:09.910794"
+    },
+    {
+      "value": 17718.46,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:09:10.210995"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:09:10.530637"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:09:10.850237"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:09:11.149557"
+    },
+    {
+      "value": 27.49,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:10:07.969413"
+    },
+    {
+      "value": 44.63,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:10:08.349437"
+    },
+    {
+      "value": 405.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:10:08.685948"
+    },
+    {
+      "value": 15835.949,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:10:08.998246"
+    },
+    {
+      "value": 28.63,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:10:09.177694"
+    },
+    {
+      "value": 0.205,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:10:09.330059"
+    },
+    {
+      "value": 45.33,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:10:09.517933"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:10:09.709671"
+    },
+    {
+      "value": 364.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:10:09.849466"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:10:10.009383"
+    },
+    {
+      "value": 17807.24,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:10:10.169136"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:10:10.337746"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:10:10.469776"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:10:10.769665"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:10:11.089744"
+    },
+    {
+      "value": 27.49,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:11:07.730160"
+    },
+    {
+      "value": 48.07,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:11:08.086005"
+    },
+    {
+      "value": 406.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:11:08.397678"
+    },
+    {
+      "value": 16112.736,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:11:08.709621"
+    },
+    {
+      "value": 0.214,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:11:09.017977"
+    },
+    {
+      "value": 28.58,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:11:09.056742"
+    },
+    {
+      "value": 45.3,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:11:09.372615"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:11:09.375760"
+    },
+    {
+      "value": 350.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:11:09.690063"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:11:09.694359"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:11:10.007826"
+    },
+    {
+      "value": 18165.79,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:11:10.010999"
+    },
+    {
+      "value": 24.21,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:11:10.329708"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:11:10.657623"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:11:10.997892"
+    },
+    {
+      "value": 27.45,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:12:07.392540"
+    },
+    {
+      "value": 49.41,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:12:07.760935"
+    },
+    {
+      "value": 410.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:12:08.104156"
+    },
+    {
+      "value": 16153.373,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:12:08.409421"
+    },
+    {
+      "value": 0.214,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:12:08.708710"
+    },
+    {
+      "value": 28.22,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:12:08.908141"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:12:09.088218"
+    },
+    {
+      "value": 44.87,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:12:09.228767"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:12:09.388874"
+    },
+    {
+      "value": 356.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:12:09.508475"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:12:09.708926"
+    },
+    {
+      "value": 18301.41,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:12:09.808219"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:12:10.116074"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:12:10.429028"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:12:10.748505"
+    },
+    {
+      "value": 27.38,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:13:08.088126"
+    },
+    {
+      "value": 47.65,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:13:08.432435"
+    },
+    {
+      "value": 404.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:13:08.756546"
+    },
+    {
+      "value": 27.86,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:13:08.796920"
+    },
+    {
+      "value": 16013.674,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:13:09.068215"
+    },
+    {
+      "value": 45.18,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:13:09.107909"
+    },
+    {
+      "value": 0.212,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:13:09.367179"
+    },
+    {
+      "value": 361.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:13:09.408792"
+    },
+    {
+      "value": 18368.16,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:13:09.724545"
+    },
+    {
+      "value": 22.288,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:13:09.740508"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:13:10.030656"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:13:10.033516"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:13:10.328689"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:13:10.333667"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:13:10.637503"
+    },
+    {
+      "value": 27.33,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:14:07.700799"
+    },
+    {
+      "value": 47.55,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:14:08.060646"
+    },
+    {
+      "value": 398.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:14:08.396496"
+    },
+    {
+      "value": 15962.918,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:14:08.709152"
+    },
+    {
+      "value": 0.211,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:14:09.011544"
+    },
+    {
+      "value": 28.26,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:14:09.014454"
+    },
+    {
+      "value": 46.39,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:14:09.328348"
+    },
+    {
+      "value": 22.41,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:14:09.388827"
+    },
+    {
+      "value": 357.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:14:09.628224"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:14:09.687916"
+    },
+    {
+      "value": 18184.56,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:14:09.928792"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:14:09.987783"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:14:10.228017"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:14:10.528161"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:14:10.828166"
+    },
+    {
+      "value": 27.33,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:15:07.392063"
+    },
+    {
+      "value": 43.8,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:15:07.770956"
+    },
+    {
+      "value": 418.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:15:08.104551"
+    },
+    {
+      "value": 16078.301,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:15:08.408750"
+    },
+    {
+      "value": 28.47,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:15:08.548202"
+    },
+    {
+      "value": 0.215,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:15:08.718628"
+    },
+    {
+      "value": 45.94,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:15:08.835566"
+    },
+    {
+      "value": 22.593,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:15:09.097414"
+    },
+    {
+      "value": 367.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:15:09.147843"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:15:09.430488"
+    },
+    {
+      "value": 18318.22,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:15:09.433384"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:15:09.732460"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:15:09.735185"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:15:10.048795"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:15:10.376177"
+    },
+    {
+      "value": 27.38,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:16:07.152749"
+    },
+    {
+      "value": 48.5,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:16:07.491225"
+    },
+    {
+      "value": 416.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:16:07.835201"
+    },
+    {
+      "value": 15949.046,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:16:08.136386"
+    },
+    {
+      "value": 0.212,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:16:08.448373"
+    },
+    {
+      "value": 28.26,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:16:08.707199"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:16:08.807985"
+    },
+    {
+      "value": 44.73,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:16:09.027933"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:16:09.107489"
+    },
+    {
+      "value": 360.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:16:09.328382"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:16:09.408486"
+    },
+    {
+      "value": 18217.36,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:16:09.608915"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:16:09.915329"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:16:10.235574"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:16:10.547180"
+    },
+    {
+      "value": 27.26,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:17:07.788465"
+    },
+    {
+      "value": 44.92,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:17:08.117036"
+    },
+    {
+      "value": 396.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:17:08.416746"
+    },
+    {
+      "value": 15908.083,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:17:08.708380"
+    },
+    {
+      "value": 28.04,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:17:08.908159"
+    },
+    {
+      "value": 0.211,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:17:08.989070"
+    },
+    {
+      "value": 46.55,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:17:09.188016"
+    },
+    {
+      "value": 22.41,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:17:09.328935"
+    },
+    {
+      "value": 366.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:17:09.468763"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:17:09.609245"
+    },
+    {
+      "value": 18134.46,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:17:09.768234"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:17:09.908313"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:17:10.068544"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:17:10.396192"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:17:10.716114"
+    },
+    {
+      "value": 27.31,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:18:07.304747"
+    },
+    {
+      "value": 51.18,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:18:07.635776"
+    },
+    {
+      "value": 411.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:18:07.979604"
+    },
+    {
+      "value": 15939.091,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:18:08.291439"
+    },
+    {
+      "value": 0.214,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:18:08.592504"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:18:08.952330"
+    },
+    {
+      "value": 28.36,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:18:09.051344"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:18:09.250048"
+    },
+    {
+      "value": 46.63,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:18:09.352580"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:18:09.552535"
+    },
+    {
+      "value": 365.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:18:09.651561"
+    },
+    {
+      "value": 18318.71,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:18:09.952255"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:18:10.251479"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:18:10.572106"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:18:10.872723"
+    },
+    {
+      "value": 27.33,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:19:07.953045"
+    },
+    {
+      "value": 28.6,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:19:08.229694"
+    },
+    {
+      "value": 45.93,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:19:08.297451"
+    },
+    {
+      "value": 46.25,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:19:08.513009"
+    },
+    {
+      "value": 405.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:19:08.573104"
+    },
+    {
+      "value": 363.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:19:08.813644"
+    },
+    {
+      "value": 15838.723,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:19:08.873449"
+    },
+    {
+      "value": 18400.15,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:19:09.112971"
+    },
+    {
+      "value": 0.215,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:19:09.173085"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:19:09.414113"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:19:09.513030"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:19:09.701062"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:19:09.794076"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:19:09.993631"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:19:10.093221"
+    },
+    {
+      "value": 27.27,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:20:07.502369"
+    },
+    {
+      "value": 44.03,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:20:07.873933"
+    },
+    {
+      "value": 408.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:20:08.179993"
+    },
+    {
+      "value": 28.38,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:20:08.331237"
+    },
+    {
+      "value": 15957.696,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:20:08.492005"
+    },
+    {
+      "value": 45.19,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:20:08.611918"
+    },
+    {
+      "value": 0.22,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:20:08.811061"
+    },
+    {
+      "value": 350.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:20:08.910154"
+    },
+    {
+      "value": 22.532,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:20:09.171861"
+    },
+    {
+      "value": 18590.44,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:20:09.238788"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:20:09.491740"
+    },
+    {
+      "value": 24.95,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:20:09.530836"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:20:09.790281"
+    },
+    {
+      "value": 3.0108,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:20:09.819800"
+    },
+    {
+      "value": 83.58,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:20:10.156907"
+    },
+    {
+      "value": 27.23,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:21:07.160588"
+    },
+    {
+      "value": 44.15,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:21:07.487579"
+    },
+    {
+      "value": 400.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:21:07.811585"
+    },
+    {
+      "value": 16027.056,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:21:08.091161"
+    },
+    {
+      "value": 0.22,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:21:08.392037"
+    },
+    {
+      "value": 27.68,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:21:08.491461"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:21:08.753162"
+    },
+    {
+      "value": 45.91,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:21:08.792597"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:21:09.055736"
+    },
+    {
+      "value": 358.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:21:09.090659"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:21:09.352363"
+    },
+    {
+      "value": 18491.05,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:21:09.391828"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:21:09.699343"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:21:10.010874"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:21:10.312613"
+    },
+    {
+      "value": 27.2,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:22:07.720629"
+    },
+    {
+      "value": 43.72,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:22:08.043366"
+    },
+    {
+      "value": 400.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:22:08.363468"
+    },
+    {
+      "value": 28.26,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:22:08.634324"
+    },
+    {
+      "value": 15728.726,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:22:08.639511"
+    },
+    {
+      "value": 46.61,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:22:08.949064"
+    },
+    {
+      "value": 0.217,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:22:08.951989"
+    },
+    {
+      "value": 362.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:22:09.247484"
+    },
+    {
+      "value": 22.41,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:22:09.286712"
+    },
+    {
+      "value": 18229.93,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:22:09.546065"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:22:09.586371"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:22:09.835440"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:22:09.866831"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:22:10.107021"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:22:10.387416"
+    },
+    {
+      "value": 27.31,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:23:07.219632"
+    },
+    {
+      "value": 43.09,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:23:07.515565"
+    },
+    {
+      "value": 390.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:23:07.823305"
+    },
+    {
+      "value": 15483.926,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:23:08.127570"
+    },
+    {
+      "value": 0.215,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:23:08.386994"
+    },
+    {
+      "value": 22.776,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:23:08.727016"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:23:09.005775"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:23:09.288496"
+    },
+    {
+      "value": 28.63,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:23:09.507293"
+    },
+    {
+      "value": 46.96,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:23:09.787010"
+    },
+    {
+      "value": 366.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:23:10.067078"
+    },
+    {
+      "value": 17714.38,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:23:10.367576"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:23:10.647492"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:23:10.926951"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:23:11.207346"
+    },
+    {
+      "value": 27.35,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:24:07.648236"
+    },
+    {
+      "value": 46.16,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:24:07.971021"
+    },
+    {
+      "value": 407.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:24:08.267133"
+    },
+    {
+      "value": 14890.042,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:24:08.547766"
+    },
+    {
+      "value": 0.208,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:24:08.827231"
+    },
+    {
+      "value": 22.776,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:24:09.167082"
+    },
+    {
+      "value": 27.91,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:24:09.407164"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:24:09.467077"
+    },
+    {
+      "value": 44.84,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:24:09.687328"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:24:09.766776"
+    },
+    {
+      "value": 351.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:24:09.985659"
+    },
+    {
+      "value": 16996.46,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:24:10.267167"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:24:10.547163"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:24:10.847159"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:24:11.127589"
+    },
+    {
+      "value": 27.33,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:25:07.123044"
+    },
+    {
+      "value": 59.86,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:25:07.468097"
+    },
+    {
+      "value": 421.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:25:07.779139"
+    },
+    {
+      "value": 14289.139,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:25:08.071787"
+    },
+    {
+      "value": 0.197,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:25:08.371314"
+    },
+    {
+      "value": 22.837,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:25:08.713131"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:25:08.971197"
+    },
+    {
+      "value": 28.04,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:25:09.253771"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:25:09.256625"
+    },
+    {
+      "value": 47.36,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:25:09.531499"
+    },
+    {
+      "value": 365.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:25:09.832384"
+    },
+    {
+      "value": 16332.4,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:25:10.112310"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:25:10.392043"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:25:10.676040"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:25:10.956483"
+    },
+    {
+      "value": 27.16,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:26:07.622273"
+    },
+    {
+      "value": 45.19,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:26:07.955382"
+    },
+    {
+      "value": 391.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:26:08.227316"
+    },
+    {
+      "value": 13841.155,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:26:08.490477"
+    },
+    {
+      "value": 0.195,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:26:08.750524"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:26:09.110782"
+    },
+    {
+      "value": 28.23,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:26:09.119248"
+    },
+    {
+      "value": 47.47,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:26:09.392302"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:26:09.395282"
+    },
+    {
+      "value": 41.016,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:26:09.672411"
+    },
+    {
+      "value": 356.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:26:09.677557"
+    },
+    {
+      "value": 15762.18,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:26:09.948930"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:26:10.237927"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:26:10.509847"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:26:10.778255"
+    },
+    {
+      "value": 27.16,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:27:08.024045"
+    },
+    {
+      "value": 57.88,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:27:08.348390"
+    },
+    {
+      "value": 413.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:27:08.612817"
+    },
+    {
+      "value": 13756.944,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:27:08.892456"
+    },
+    {
+      "value": 27.93,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:27:09.012517"
+    },
+    {
+      "value": 0.188,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:27:09.172489"
+    },
+    {
+      "value": 47.12,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:27:09.292465"
+    },
+    {
+      "value": 22.715,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:27:09.512292"
+    },
+    {
+      "value": 356.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:27:09.571875"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:27:09.792939"
+    },
+    {
+      "value": 15581.85,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:27:09.831531"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:27:10.072083"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:27:10.112268"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:27:10.392801"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:27:10.651785"
+    },
+    {
+      "value": 27.07,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:28:07.416930"
+    },
+    {
+      "value": 50.38,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:28:07.724400"
+    },
+    {
+      "value": 393.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:28:08.016934"
+    },
+    {
+      "value": 13926.182,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:28:08.296598"
+    },
+    {
+      "value": 0.188,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:28:08.569114"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:28:08.916548"
+    },
+    {
+      "value": 27.76,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:28:08.955893"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:28:09.176783"
+    },
+    {
+      "value": 47.46,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:28:09.207942"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:28:09.428879"
+    },
+    {
+      "value": 360.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:28:09.488872"
+    },
+    {
+      "value": 15696.74,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:28:09.767889"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:28:10.044288"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:28:10.337024"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:28:10.609295"
+    },
+    {
+      "value": 27.04,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:29:07.794730"
+    },
+    {
+      "value": 56.44,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:29:08.086649"
+    },
+    {
+      "value": 410.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:29:08.330634"
+    },
+    {
+      "value": 13975.632,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:29:08.590575"
+    },
+    {
+      "value": 27.64,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:29:08.872970"
+    },
+    {
+      "value": 0.189,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:29:08.875997"
+    },
+    {
+      "value": 47.11,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:29:09.130487"
+    },
+    {
+      "value": 22.715,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:29:09.219231"
+    },
+    {
+      "value": 355.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:29:09.410545"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:29:09.470240"
+    },
+    {
+      "value": 15695.92,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:29:09.708268"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:29:09.711177"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:29:09.958189"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:29:10.219236"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:29:10.498538"
+    },
+    {
+      "value": 26.96,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:30:08.148888"
+    },
+    {
+      "value": 45.12,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:30:08.449908"
+    },
+    {
+      "value": 400.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:30:08.749425"
+    },
+    {
+      "value": 27.48,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:30:08.809517"
+    },
+    {
+      "value": 13839.197,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:30:09.049325"
+    },
+    {
+      "value": 47.63,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:30:09.089467"
+    },
+    {
+      "value": 0.184,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:30:09.329542"
+    },
+    {
+      "value": 356.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:30:09.369870"
+    },
+    {
+      "value": 15364.3,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:30:09.669778"
+    },
+    {
+      "value": 22.776,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:30:09.677322"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:30:09.949211"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:30:09.976867"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:30:10.229478"
+    },
+    {
+      "value": 40.771,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:30:10.268862"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:30:10.529338"
+    },
+    {
+      "value": 26.97,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:31:07.624599"
+    },
+    {
+      "value": 46.68,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:31:07.903979"
+    },
+    {
+      "value": 395.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:31:08.176983"
+    },
+    {
+      "value": 13879.507,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:31:08.456351"
+    },
+    {
+      "value": 0.187,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:31:08.756245"
+    },
+    {
+      "value": 27.74,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:31:08.848299"
+    },
+    {
+      "value": 22.715,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:31:09.097278"
+    },
+    {
+      "value": 47.93,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:31:09.128397"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:31:09.368365"
+    },
+    {
+      "value": 365.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:31:09.407382"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:31:09.649279"
+    },
+    {
+      "value": 15363.97,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:31:09.688341"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:31:09.988487"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:31:10.268523"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:31:10.548597"
+    },
+    {
+      "value": 26.97,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:32:07.995050"
+    },
+    {
+      "value": 48.52,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:32:08.305433"
+    },
+    {
+      "value": 402.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:32:08.590458"
+    },
+    {
+      "value": 27.86,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:32:08.850467"
+    },
+    {
+      "value": 13264.243,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:32:08.857286"
+    },
+    {
+      "value": 0.176,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:32:09.131874"
+    },
+    {
+      "value": 47.25,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:32:09.134656"
+    },
+    {
+      "value": 345.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:32:09.410120"
+    },
+    {
+      "value": 22.593,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:32:09.468853"
+    },
+    {
+      "value": 14795.22,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:32:09.637751"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:32:09.717309"
+    },
+    {
+      "value": 24.95,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:32:09.869790"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:32:09.929446"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:32:10.089356"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:32:10.329248"
+    },
+    {
+      "value": 26.9,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:33:07.209080"
+    },
+    {
+      "value": 45.95,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:33:07.464801"
+    },
+    {
+      "value": 389.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:33:07.744000"
+    },
+    {
+      "value": 12427.354,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:33:08.008567"
+    },
+    {
+      "value": 0.164,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:33:08.288867"
+    },
+    {
+      "value": 22.837,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:33:08.590274"
+    },
+    {
+      "value": 27.84,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:33:08.593075"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:33:08.831280"
+    },
+    {
+      "value": 47.81,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:33:08.834061"
+    },
+    {
+      "value": 40.527,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:33:09.090445"
+    },
+    {
+      "value": 358.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:33:09.092553"
+    },
+    {
+      "value": 13687.42,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:33:09.368733"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:33:09.609451"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:33:09.848987"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:33:10.128259"
+    },
+    {
+      "value": 26.86,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:34:07.428531"
+    },
+    {
+      "value": 48.17,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:34:07.684648"
+    },
+    {
+      "value": 403.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:34:07.936154"
+    },
+    {
+      "value": 11809.315,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:34:08.184820"
+    },
+    {
+      "value": 0.157,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:34:08.415707"
+    },
+    {
+      "value": 27.78,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:34:08.436013"
+    },
+    {
+      "value": 47.19,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:34:08.676387"
+    },
+    {
+      "value": 22.715,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:34:08.716244"
+    },
+    {
+      "value": 351.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:34:08.916635"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:34:08.955922"
+    },
+    {
+      "value": 12913.2,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:34:09.169377"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:34:09.207810"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:34:09.408587"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:34:09.648301"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:34:09.896427"
+    },
+    {
+      "value": 26.75,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:35:07.523488"
+    },
+    {
+      "value": 45.34,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:35:07.806503"
+    },
+    {
+      "value": 396.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:35:08.071554"
+    },
+    {
+      "value": 27.61,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:35:08.187194"
+    },
+    {
+      "value": 11587.853,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:35:08.287894"
+    },
+    {
+      "value": 48.53,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:35:08.427591"
+    },
+    {
+      "value": 0.153,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:35:08.547733"
+    },
+    {
+      "value": 361.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:35:08.667707"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:35:08.875969"
+    },
+    {
+      "value": 12693.86,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:35:08.887367"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:35:09.128021"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:35:09.132147"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:35:09.369469"
+    },
+    {
+      "value": 40.161,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:35:09.371525"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:35:09.587899"
+    },
+    {
+      "value": 26.65,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:36:07.663625"
+    },
+    {
+      "value": 48.37,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:36:07.884096"
+    },
+    {
+      "value": 401.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:36:08.087440"
+    },
+    {
+      "value": 11819.923,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:36:08.327119"
+    },
+    {
+      "value": 0.155,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:36:08.547096"
+    },
+    {
+      "value": 22.837,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:36:08.850145"
+    },
+    {
+      "value": 27.4,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:36:08.852957"
+    },
+    {
+      "value": 48.09,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:36:09.090077"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:36:09.092878"
+    },
+    {
+      "value": 356.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:36:09.349539"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:36:09.352554"
+    },
+    {
+      "value": 12935.07,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:36:09.587992"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:36:09.846942"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:36:10.067305"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:36:10.287910"
+    },
+    {
+      "value": 26.59,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:37:07.645371"
+    },
+    {
+      "value": 58.09,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:37:07.885485"
+    },
+    {
+      "value": 413.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:37:08.124341"
+    },
+    {
+      "value": 12135.226,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:37:08.369932"
+    },
+    {
+      "value": 27.06,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:37:08.549891"
+    },
+    {
+      "value": 0.159,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:37:08.588852"
+    },
+    {
+      "value": 49.56,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:37:08.769089"
+    },
+    {
+      "value": 22.959,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:37:08.849260"
+    },
+    {
+      "value": 362.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:37:08.989982"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:37:09.069253"
+    },
+    {
+      "value": 13263.59,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:37:09.209151"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:37:09.269363"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:37:09.389151"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:37:09.569652"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:37:09.748149"
+    },
+    {
+      "value": 26.54,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:38:07.465688"
+    },
+    {
+      "value": 48.14,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:38:07.644606"
+    },
+    {
+      "value": 416.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:38:07.844603"
+    },
+    {
+      "value": 12251.75,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:38:07.988796"
+    },
+    {
+      "value": 0.159,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:38:08.108112"
+    },
+    {
+      "value": 22.471,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:38:08.316883"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:38:08.456453"
+    },
+    {
+      "value": 40.161,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:38:08.596776"
+    },
+    {
+      "value": 26.86,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:38:09.588354"
+    },
+    {
+      "value": 47.98,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:38:09.708251"
+    },
+    {
+      "value": 362.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:38:09.828949"
+    },
+    {
+      "value": 13417.0,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:38:09.957354"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:38:10.096868"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:38:10.228473"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:38:10.348171"
+    },
+    {
+      "value": 26.41,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:39:07.759935"
+    },
+    {
+      "value": 44.46,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:39:07.976736"
+    },
+    {
+      "value": 395.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:39:08.177085"
+    },
+    {
+      "value": 11866.435,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:39:08.368517"
+    },
+    {
+      "value": 0.153,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:39:08.548028"
+    },
+    {
+      "value": 22.532,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:39:08.788024"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:39:08.968092"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:39:09.128785"
+    },
+    {
+      "value": 26.86,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:39:09.467102"
+    },
+    {
+      "value": 48.67,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:39:09.628519"
+    },
+    {
+      "value": 353.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:39:09.791749"
+    },
+    {
+      "value": 12931.8,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:39:09.928746"
+    },
+    {
+      "value": 24.95,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:39:10.048782"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:39:10.228575"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:39:10.407723"
+    },
+    {
+      "value": 26.32,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:40:07.344555"
+    },
+    {
+      "value": 49.98,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:40:07.505600"
+    },
+    {
+      "value": 400.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:40:07.648959"
+    },
+    {
+      "value": 11133.667,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:40:07.805357"
+    },
+    {
+      "value": 0.145,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:40:07.948948"
+    },
+    {
+      "value": 22.593,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:40:08.129796"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:40:08.278342"
+    },
+    {
+      "value": 40.894,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:40:08.437820"
+    },
+    {
+      "value": 26.58,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:40:09.329402"
+    },
+    {
+      "value": 47.92,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:40:09.489112"
+    },
+    {
+      "value": 351.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:40:09.649242"
+    },
+    {
+      "value": 12160.85,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:40:09.810168"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:40:09.977315"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:40:10.129159"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:40:10.290211"
+    },
+    {
+      "value": 26.13,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:41:07.577647"
+    },
+    {
+      "value": 45.99,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:41:07.718825"
+    },
+    {
+      "value": 391.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:41:07.868947"
+    },
+    {
+      "value": 10749.658,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:41:08.012324"
+    },
+    {
+      "value": 0.14,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:41:08.150762"
+    },
+    {
+      "value": 22.898,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:41:08.350971"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:41:08.470542"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:41:08.590867"
+    },
+    {
+      "value": 26.13,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:41:09.217739"
+    },
+    {
+      "value": 49.78,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:41:09.350711"
+    },
+    {
+      "value": 374.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:41:09.470574"
+    },
+    {
+      "value": 11592.91,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:41:09.590630"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:41:09.710268"
+    },
+    {
+      "value": 2.9081,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:41:09.838334"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:41:09.991103"
+    },
+    {
+      "value": 26.18,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:42:07.752845"
+    },
+    {
+      "value": 62.74,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:42:07.924034"
+    },
+    {
+      "value": 414.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:42:08.076768"
+    },
+    {
+      "value": 10688.458,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:42:08.228902"
+    },
+    {
+      "value": 0.139,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:42:08.368674"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:42:08.567150"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:42:08.688306"
+    },
+    {
+      "value": 40.649,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:42:08.836949"
+    },
+    {
+      "value": 26.34,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:42:09.068638"
+    },
+    {
+      "value": 49.97,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:42:09.196799"
+    },
+    {
+      "value": 363.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:42:09.328647"
+    },
+    {
+      "value": 11419.43,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:42:09.447557"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:42:09.588537"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:42:09.748845"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:42:09.916577"
+    },
+    {
+      "value": 26.04,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:43:07.985780"
+    },
+    {
+      "value": 48.81,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:43:08.145538"
+    },
+    {
+      "value": 395.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:43:08.298057"
+    },
+    {
+      "value": 10759.123,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:43:08.437936"
+    },
+    {
+      "value": 0.137,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:43:08.589032"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:43:08.789825"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:43:08.909897"
+    },
+    {
+      "value": 26.23,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:43:08.950021"
+    },
+    {
+      "value": 40.161,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:43:09.029721"
+    },
+    {
+      "value": 49.54,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:43:09.069934"
+    },
+    {
+      "value": 359.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:43:09.197387"
+    },
+    {
+      "value": 11491.89,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:43:09.337775"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:43:09.489102"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:43:09.609594"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:43:09.728356"
+    },
+    {
+      "value": 25.96,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:44:07.152091"
+    },
+    {
+      "value": 48.91,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:44:07.306859"
+    },
+    {
+      "value": 403.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:44:07.458649"
+    },
+    {
+      "value": 11005.066,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:44:07.611325"
+    },
+    {
+      "value": 0.14,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:44:07.750354"
+    },
+    {
+      "value": 22.593,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:44:07.959161"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:44:08.118581"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:44:08.270838"
+    },
+    {
+      "value": 26.38,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:44:08.918726"
+    },
+    {
+      "value": 50.03,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:44:09.050651"
+    },
+    {
+      "value": 357.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:44:09.170517"
+    },
+    {
+      "value": 11812.91,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:44:09.299151"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:44:09.430347"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:44:09.550339"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:44:09.679094"
+    },
+    {
+      "value": 25.99,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:45:07.440431"
+    },
+    {
+      "value": 54.82,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:45:07.595573"
+    },
+    {
+      "value": 411.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:45:07.748117"
+    },
+    {
+      "value": 11557.334,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:45:07.867705"
+    },
+    {
+      "value": 0.151,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:45:08.007687"
+    },
+    {
+      "value": 22.898,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:45:08.207963"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:45:08.327313"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:45:08.447814"
+    },
+    {
+      "value": 26.37,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:45:08.866977"
+    },
+    {
+      "value": 49.93,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:45:08.987562"
+    },
+    {
+      "value": 365.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:45:09.107456"
+    },
+    {
+      "value": 12424.09,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:45:09.228447"
+    },
+    {
+      "value": 24.46,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:45:09.361213"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:45:09.487692"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:45:09.608021"
+    },
+    {
+      "value": 25.92,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:46:07.593041"
+    },
+    {
+      "value": 50.29,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:46:07.757459"
+    },
+    {
+      "value": 402.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:46:07.889649"
+    },
+    {
+      "value": 12207.686,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:46:08.037551"
+    },
+    {
+      "value": 0.159,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:46:08.189704"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:46:08.389945"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:46:08.529481"
+    },
+    {
+      "value": 40.161,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:46:08.669614"
+    },
+    {
+      "value": 26.37,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:46:08.769767"
+    },
+    {
+      "value": 47.95,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:46:08.889663"
+    },
+    {
+      "value": 342.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:46:09.009283"
+    },
+    {
+      "value": 13236.17,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:46:09.138404"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:46:09.269361"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:46:09.389915"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:46:09.517758"
+    },
+    {
+      "value": 25.9,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:47:07.865669"
+    },
+    {
+      "value": 51.02,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:47:08.045654"
+    },
+    {
+      "value": 406.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:47:08.189884"
+    },
+    {
+      "value": 12718.176,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:47:08.330089"
+    },
+    {
+      "value": 0.166,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:47:08.489795"
+    },
+    {
+      "value": 26.47,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:47:08.669579"
+    },
+    {
+      "value": 22.593,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:47:08.709439"
+    },
+    {
+      "value": 50.42,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:47:08.808622"
+    },
+    {
+      "value": 0.085,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:47:08.829733"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:47:08.950101"
+    },
+    {
+      "value": 370.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:47:08.957351"
+    },
+    {
+      "value": 13982.81,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:47:09.117511"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:47:09.271723"
+    },
+    {
+      "value": 2.9765,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:47:09.390256"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:47:09.530195"
+    },
+    {
+      "value": 25.96,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:48:07.091906"
+    },
+    {
+      "value": 54.6,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:48:07.229107"
+    },
+    {
+      "value": 412.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:48:07.369438"
+    },
+    {
+      "value": 13150.656,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:48:07.512715"
+    },
+    {
+      "value": 0.175,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:48:07.669168"
+    },
+    {
+      "value": 22.837,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:48:07.849439"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:48:08.002241"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:48:08.161474"
+    },
+    {
+      "value": 26.28,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:48:08.709207"
+    },
+    {
+      "value": 48.34,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:48:08.829765"
+    },
+    {
+      "value": 350.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:48:08.949765"
+    },
+    {
+      "value": 14547.16,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:48:09.069490"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:48:09.209760"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:48:09.329422"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:48:09.449887"
+    },
+    {
+      "value": 25.86,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:49:07.301915"
+    },
+    {
+      "value": 50.53,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:49:07.464029"
+    },
+    {
+      "value": 397.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:49:07.616530"
+    },
+    {
+      "value": 12864.403,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:49:07.776831"
+    },
+    {
+      "value": 0.171,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:49:07.916651"
+    },
+    {
+      "value": 22.898,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:49:08.115351"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:49:08.255691"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:49:08.395476"
+    },
+    {
+      "value": 26.26,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:49:08.595502"
+    },
+    {
+      "value": 48.99,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:49:08.715539"
+    },
+    {
+      "value": 356.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:49:08.855132"
+    },
+    {
+      "value": 14370.74,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:49:08.976246"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:49:09.115843"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:49:09.255789"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:49:09.375598"
+    },
+    {
+      "value": 25.87,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:50:07.578200"
+    },
+    {
+      "value": 48.17,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:50:07.736401"
+    },
+    {
+      "value": 413.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:50:07.887723"
+    },
+    {
+      "value": 12562.81,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:50:08.035983"
+    },
+    {
+      "value": 0.166,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:50:08.187593"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:50:08.368296"
+    },
+    {
+      "value": 0.06,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:50:08.508126"
+    },
+    {
+      "value": 26.45,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:50:08.556253"
+    },
+    {
+      "value": 40.283,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:50:08.647445"
+    },
+    {
+      "value": 49.79,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:50:08.695375"
+    },
+    {
+      "value": 357.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:50:08.847949"
+    },
+    {
+      "value": 13980.04,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:50:08.968000"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:50:09.107834"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:50:09.247828"
+    },
+    {
+      "value": 82.11,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:50:09.387525"
+    },
+    {
+      "value": 25.9,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:51:07.824862"
+    },
+    {
+      "value": 49.95,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:51:07.969815"
+    },
+    {
+      "value": 411.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:51:08.109313"
+    },
+    {
+      "value": 12450.528,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:51:08.248192"
+    },
+    {
+      "value": 0.162,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:51:08.388990"
+    },
+    {
+      "value": 26.21,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:51:08.529736"
+    },
+    {
+      "value": 22.654,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:51:08.569135"
+    },
+    {
+      "value": 48.63,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:51:08.649414"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:51:08.690799"
+    },
+    {
+      "value": 353.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:51:08.799081"
+    },
+    {
+      "value": 40.161,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:51:08.801869"
+    },
+    {
+      "value": 13901.21,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:51:08.951353"
+    },
+    {
+      "value": 24.95,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:51:09.069568"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:51:09.189632"
+    },
+    {
+      "value": 82.6,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:51:09.309935"
+    },
+    {
+      "value": 25.93,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:52:07.930159"
+    },
+    {
+      "value": 59.06,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:52:08.068202"
+    },
+    {
+      "value": 426.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:52:08.208250"
+    },
+    {
+      "value": 11652.48,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:52:08.350337"
+    },
+    {
+      "value": 26.12,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:52:08.448819"
+    },
+    {
+      "value": 0.154,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:52:08.488567"
+    },
+    {
+      "value": 49.86,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:52:08.568931"
+    },
+    {
+      "value": 22.959,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:52:08.668563"
+    },
+    {
+      "value": 360.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:52:08.708060"
+    },
+    {
+      "value": 0.068,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:52:08.808603"
+    },
+    {
+      "value": 12994.31,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:52:08.847977"
+    },
+    {
+      "value": 40.405,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:52:08.948975"
+    },
+    {
+      "value": 25.43,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:52:08.957027"
+    },
+    {
+      "value": 3.0108,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:52:09.108827"
+    },
+    {
+      "value": 83.58,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:52:09.248264"
+    },
+    {
+      "value": 25.89,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:53:07.100137"
+    },
+    {
+      "value": 52.64,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:53:07.248547"
+    },
+    {
+      "value": 394.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:53:07.368107"
+    },
+    {
+      "value": 11135.462,
+      "sensor_name": "air_light_2",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:53:07.508290"
+    },
+    {
+      "value": 0.149,
+      "sensor_name": "air_solar_2",
+      "unit": "kW/㎡",
+      "created_at": "2020-10-06T13:53:07.627619"
+    },
+    {
+      "value": 22.715,
+      "sensor_name": "soil_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:53:07.828536"
+    },
+    {
+      "value": 0.077,
+      "sensor_name": "soil_ec_2",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:53:07.948247"
+    },
+    {
+      "value": 40.161,
+      "sensor_name": "soil_water_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:53:08.068665"
+    },
+    {
+      "value": 25.93,
+      "sensor_name": "air_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:53:08.449161"
+    },
+    {
+      "value": 48.67,
+      "sensor_name": "air_humid_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:53:08.569230"
+    },
+    {
+      "value": 360.0,
+      "sensor_name": "air_co2_1",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:53:08.707013"
+    },
+    {
+      "value": 12438.12,
+      "sensor_name": "air_light_1",
+      "unit": "lux",
+      "created_at": "2020-10-06T13:53:08.848473"
+    },
+    {
+      "value": 24.7,
+      "sensor_name": "soil_temp_1",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:53:08.968549"
+    },
+    {
+      "value": 2.9423,
+      "sensor_name": "soil_ec_1",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:53:09.088336"
+    },
+    {
+      "value": 83.09,
+      "sensor_name": "soil_water_1",
+      "unit": "mS/cm",
+      "created_at": "2020-10-06T13:53:09.208609"
+    },
+    {
+      "value": 25.77,
+      "sensor_name": "air_temp_2",
+      "unit": "degree",
+      "created_at": "2020-10-06T13:54:07.201616"
+    },
+    {
+      "value": 46.85,
+      "sensor_name": "air_humid_2",
+      "unit": "percent",
+      "created_at": "2020-10-06T13:54:07.359235"
+    },
+    {
+      "value": 396.0,
+      "sensor_name": "air_co2_2",
+      "unit": "ppm",
+      "created_at": "2020-10-06T13:54:07.511684"
+    }
+  ]
+}
